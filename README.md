@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#Hello microverse
+#My Portfolio website
 
-This repository is an intro project to microverse with HTML,CSS and Linters. 
+This repository is  my personal portfolio which shows my experiences and previous project. 
 
 
 ![screenshot](./app_screenshot.png)
@@ -14,7 +14,7 @@ JavaScript
 ### Setup
 clone to you local machine
 create a directory on a your local machin.
-open your terminal and type: git clone https://github.com/chidiebereojingwa/Hello_Microverse.git
+open your terminal and type: git clone https://github.com/chidiebereojingwa/myportfolio.git
 ### Usage
 Clone project to your local machine 
 run the index.html

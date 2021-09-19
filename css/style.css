@@ -509,46 +509,53 @@ body {
 }
 
 .rect {
-  width: 28px;
-  height: 28px;
-  margin-top: 55px;
-  margin-bottom: -40px;
-  margin-left: 4px;
-  margin-right: 21px;
+  width: 23px;
+  height: 25px;
+  padding-right: 11px;
+  margin-top: 8px;
 }
 
 .lang {
   font-family: InaiMathi, sans-serif;
   font-style: normal;
   font-weight: bold;
+  font-size: 32px;
 }
 
 .javascript {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 29px;
+  margin-left: -27px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .ruby {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 65px;
+  margin-left: 6px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .html {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 65px;
+  margin-left: 6px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .css {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 70px;
+  margin-left: 6px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .framework {
@@ -558,8 +565,8 @@ body {
   position: absolute;
   align-content: center;
   color: white;
-  padding-left: 97px;
-  top: 1046px;
+  padding-left: 127px;
+  top: 956px;
 }
 
 .dot {
@@ -575,35 +582,45 @@ body {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 27px;
+  margin-left: -27px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .rubyRail {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 10px;
+  margin-left: -45px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .rspes {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 46px;
+  margin-left: -14px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .capybara {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 28px;
+  margin-left: -27px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .sele {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 24px;
+  margin-left: -27px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .skill {
@@ -614,7 +631,8 @@ body {
   align-content: center;
   color: white;
   padding-left: 97px;
-  top: 1503px;
+  padding-right: 90px;
+  top: 1344px;
 }
 
 .circle {
@@ -624,41 +642,52 @@ body {
   justify-content: space-between;
   margin-left: 4px;
   font-size: 33px;
+  padding-bottom: 40px;
 }
 
 .codekit {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 45px;
+  margin-left: 23px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .github {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 52px;
+  margin-left: 31px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .codepen {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 43px;
+  margin-left: 12px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .gitlab {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 58px;
+  margin-left: 36px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .terminal {
   font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
-  margin-left: 45px;
+  margin-left: 19px;
+  margin-top: 34px;
+  font-size: 22px;
 }
 
 .bottomline {
@@ -683,4 +712,8 @@ body {
 
 .seeProject:hover {
   background-color: #ff6b00;
+}
+
+ul {
+  list-style-type: none;
 }
